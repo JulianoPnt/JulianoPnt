@@ -25,8 +25,9 @@
 
 ![NodeJS](https://img.shields.io/badge/node.js-0064AE?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-0064AE.svg?style=for-the-badge&logo=express&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Moleculer.JS-0064AE.svg?style=for-the-badge&logo=Moleculer&logoColor=white)
-![Moleculer.js](https://img.shields.io/badge/sequelize-0064AE.svg?style=for-the-badge&logo=sequelize&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-0064AE.svg?style=for-the-badge&logo=sequelize&logoColor=white)
+![Moleculer.js](https://img.shields.io/badge/Moleculer.js-0064AE.svg?style=for-the-badge&logo=moleculer&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-0064AE?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-0064AE.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-0064AE.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/Codeigniter-0064AE.svg?style=for-the-badge&logo=Codeigniter&logoColor=white)
@@ -48,3 +49,4 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-0064AE.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-0064AE?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Apache JMeter](https://img.shields.io/badge/Apache_Jmeter-0064AE?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-0064AE?style=for-the-badge&logo=nginx&logoColor=white)
