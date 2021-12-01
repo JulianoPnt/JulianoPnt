@@ -5,7 +5,11 @@
 [![LinkedIn](https://img.shields.io/badge/Juliano%20Pantoni%20Filho-0064AE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianopantonifilho/)
 [![Gmail](https://img.shields.io/badge/contato@julianopantoni.dev-0064AE?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contato@julianopantoni.dev)](mailto:contato@julianopantoni.dev)
 
-**WIP Description**
+I love challenges!
+
+My interest in programming started in my early teens when I modified games that I played in my free time. Towards graduating from school, I started doing small freelance jobs and researching more on how to integrate things through the web.
+
+From that, I started the Computer Science Bachelor course, which I graduated from in 2021. After starting the course, I entered the job market, going into web development and now working as a Software Engineer.
 
 
 # 👨🏼‍🎓 Skills
